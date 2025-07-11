@@ -296,3 +296,40 @@ main {
     margin-bottom: 5px;
     font-weight: bold;
 }
+
+/* Footer Area */
+footer {
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 120px;
+    padding-top: 50px;
+    margin-top: 0;
+    margin: 0 auto;
+}
+.container {
+    width: 531px;
+    height: 221px;
+    margin: 0 auto;
+    text-align: center;
+}
+.container h1 {
+    color:#4E47FF;
+    font-size: 100px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+footer ul {
+    display: flex;
+    justify-content: space-around;
+}
+footer ul li {
+    list-style-type: none;
+}
+footer ul li a {
+    text-decoration: none;
+    color: #8987A1;
+}
+.footer-item {
+    color: #8987A1;
+}
